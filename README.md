@@ -3,6 +3,7 @@ Java is a high level language that is easy to read and understand.
 Java is popurlaly used in console,GUI,Web based applications and mobile application, game development, and also to make embedded systems.
 Apart from this java is also used to develop a software of devices.
 It is not only used in computers and mobiles but also in telvisions,washing machine etc.
+Online forms, banking, and shoping are possible beacuse of java.
 
 
 
