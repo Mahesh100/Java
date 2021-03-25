@@ -1,6 +1,6 @@
 Java is an object oriented programming language that is used on a distributed envrionment on the internet.
 Java is a high level language that is easy to read and understand.
-
+Java is popurlaly used in console,GUI,Web based applications and mobile application.
 
 
 
