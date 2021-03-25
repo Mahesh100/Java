@@ -13,6 +13,8 @@ Later it was named as Green and Finally it named as Java from the Java Coffee fr
 There are three editions of Java every programmer can learn any edition based on application they want to create.
 Java Standard Edition
 Java Enterprise Edition
+Java Micro Edition
+
 
 
 Differernce between JVM, JRE and JDK-
