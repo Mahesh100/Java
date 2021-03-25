@@ -1,3 +1,6 @@
+Java is an object oriented programming language that is used on a distributed envrionment on the internet.
+
+
 Differernce between JVM, JRE and JDK-
 JVM-Java Virtual Machine
 JRE-Java Runtime Environment.
@@ -15,6 +18,8 @@ JDK(Java Development Kit): It is Development Kit required by the java develpers 
                            For ex-Java and Javac
                              Javac is a tool which is used for comailation  of byte code
                              Java- Is used for execution of your byte code.
+                             
+   
                              
                              
                               
