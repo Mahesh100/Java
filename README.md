@@ -6,6 +6,7 @@ Apart from this java is also used to develop a software of devices.
 
 
 
+
 Differernce between JVM, JRE and JDK-
 JVM-Java Virtual Machine
 JRE-Java Runtime Environment.
