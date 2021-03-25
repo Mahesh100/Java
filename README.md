@@ -10,6 +10,10 @@ He has single moto while writing the language that is "Write once and Run Anywhe
 They named this language as Oak beacuse of Oak tree outside the Gosling office.
 Later it was named as Green and Finally it named as Java from the Java Coffee from indonesia.
 
+There are three editions of Java every programmer can learn any edition based on application they want to create.
+Java Standard Edition
+
+
 
 
 
