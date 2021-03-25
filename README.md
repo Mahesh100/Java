@@ -1,4 +1,7 @@
 Java is an object oriented programming language that is used on a distributed envrionment on the internet.
+Java is a high level language that is easy to read and understand.
+
+
 
 
 Differernce between JVM, JRE and JDK-
