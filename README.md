@@ -1,6 +1,6 @@
 Java is general purpose programming language.
 
-Java is like c++
+Java is like c++ but with advance and simplified features.
 
 Java is an object oriented programming language that is used on a distributed envrionment on the internet.
 
